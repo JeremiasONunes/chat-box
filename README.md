@@ -106,7 +106,7 @@ O aplicativo trata diferentes tipos de erro:
 ## 🏆 **HackTown 2025**
 
 **Evento:** HackTown 2025  
-**Categoria:** Competição AWS  
+**Categoria:** AWS Amazon Q
 **Objetivo:** Demonstrar habilidades em desenvolvimento web moderno com integração de IA  
 **Tecnologias Destacadas:** React, Tailwind CSS, Hugging Face API, Arquitetura Componentizada
 
